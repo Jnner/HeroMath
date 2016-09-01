@@ -1,0 +1,12 @@
+# Hero Math
+# file.[pP] | ignora 'file.p y file.P'
+# file.[aA]xa | ignora 'file.axa y file.Axa'
+# file-*.jpg | ignora 'file-(lo que sea).jpg'
+# file-??.jpg | ignora 'file-(solo dos posiciones).jpg' por ejemplo no ignora 'file-1.jpg'
+#
+#
+# FILES
+*.zip
+*.rar
+*[Bb]ackup*.*
+*[Cc]opia*.*
